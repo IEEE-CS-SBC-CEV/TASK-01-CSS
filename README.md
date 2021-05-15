@@ -27,7 +27,7 @@
 |Server Monks|Name|Website link|  
 |------------|----|------------|
 |1|Adnan|-|
-|2|Anuroopa|https://anuroopaaa.github.io/css-task-01/|
+|2|Anuroopa|-|
 |3|Akmal|-|
 |4|Hiba|-|
 |5|Dana|-|
@@ -36,7 +36,7 @@
 |Data Pirates|Name|Website link|  
 |------------|----|------------|
 |1|Najiya|-|
-|2|Hafis|https://hafiscp.github.io/TASK-01-CSS/|
+|2|Hafis|-|
 |3|Prathul|-|
 |4|Swathy|-|
 |5|Yazid|-|
@@ -44,7 +44,7 @@
 |Webzone|Name|Website link|  
 |-------|----|------------|
 |1|Anupriya|-|
-|2|Aleena Reji|https://aleenareji5.github.io/css-task1/|
+|2|Aleena Reji|-|
 |3|Avanthika|https://avanthika2811.github.io/TASK-CSS-01/|
 |4|Atif|-|
 |5|Yadunath|-|
@@ -53,8 +53,8 @@
 |Query Crew|Name|Website link|  
 |----------|----|------------|
 |1|Hadiq|-|
-|2|Kiran|https://kirankrish792.github.io/tr/|
-|3|Pravitha|https://pravitha007.github.io/TASK_01_CSS/|
+|2|Kiran|-|
+|3|Pravitha|-|
 |4|Adil|-|
 |5|Greeshma|-|
 |6|Adithya|-|
