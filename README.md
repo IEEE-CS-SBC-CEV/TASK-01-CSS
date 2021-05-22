@@ -39,7 +39,7 @@
 |2|Hafis|https://hafiscp.github.io/TASK-01-CSS/|
 |3|Prathul|-|
 |4|Swathy|-|
-|5|Yazid|-|
+|5|Yazid|https://yazidanp.github.io/csstask1/|
 
 |Webzone|Name|Website link|  
 |-------|----|------------|
